@@ -1,0 +1,15 @@
+getElementById("demo").innerHTML = "Hello JavaScript";
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+document.getElementById("demo").style.fontSize = "25px";
+
+document.getElementById("demo").style.display = "none";
+
+document.getElementById("demo").style.display = "block";
+
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script>
+
+
